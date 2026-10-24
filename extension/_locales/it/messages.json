@@ -1,0 +1,84 @@
+{
+  "extName": {
+    "message": "PdfCraft per Chrome",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Apre i PDF in un visualizzatore/editor completo (PdfCraft): leggero, locale, senza cloud. Sostituisce Acrobat Reader.",
+    "description": "Extension description"
+  },
+  "popTagline": {
+    "message": "Leggi, organizza, firma e proteggi i PDF"
+  },
+  "popAutoTitle": {
+    "message": "Apri automaticamente i PDF"
+  },
+  "popAutoHint": {
+    "message": "Nel browser, al posto del visualizzatore di Chrome"
+  },
+  "popDownloadsTitle": {
+    "message": "Apri i PDF appena scaricati"
+  },
+  "popDownloadsHint": {
+    "message": "In una nuova scheda"
+  },
+  "popBadgeTitle": {
+    "message": "Mostra il bollino «Apri con PdfCraft»"
+  },
+  "popBadgeHint": {
+    "message": "Se l’apertura automatica è spenta"
+  },
+  "popOpenLocal": {
+    "message": "Apri un PDF dal computer…"
+  },
+  "popNative": {
+    "message": "Apri questo PDF nel visualizzatore di Chrome"
+  },
+  "popFileAccess": {
+    "message": "Per aprire PDF locali e scaricati attiva «Consenti l’accesso agli URL dei file»."
+  },
+  "popFileAccessLink": {
+    "message": "Apri impostazioni"
+  },
+  "ctxLink": {
+    "message": "Apri il link con PdfCraft"
+  },
+  "ctxPage": {
+    "message": "Apri con PdfCraft"
+  },
+  "badgeText": {
+    "message": "Apri con PdfCraft"
+  },
+  "badgeTitle": {
+    "message": "Apri questo PDF in una nuova scheda con PdfCraft"
+  },
+  "badgeHide": {
+    "message": "Nascondi"
+  },
+  "errTitle": {
+    "message": "Impossibile aprire il PDF"
+  },
+  "errFile": {
+    "message": "Per i file locali devi attivare «Consenti l’accesso agli URL dei file» nelle impostazioni dell’estensione:"
+  },
+  "errFileCopy": {
+    "message": "(copia e incolla l’indirizzo in una nuova scheda)"
+  },
+  "errServer": {
+    "message": "Il server non ha restituito il file ($ERR$).",
+    "placeholders": {
+      "err": {
+        "content": "$1"
+      }
+    }
+  },
+  "errRetry": {
+    "message": "Riprova"
+  },
+  "errStartTitle": {
+    "message": "PdfCraft non si è avviato"
+  },
+  "errWebgl": {
+    "message": "Serve WebGL2: controlla che l’accelerazione hardware sia attiva in chrome://settings/system."
+  }
+}

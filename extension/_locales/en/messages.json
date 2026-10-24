@@ -1,0 +1,84 @@
+{
+  "extName": {
+    "message": "PdfCraft for Chrome",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Opens PDFs in a full PDF viewer and editor (PdfCraft): light, local, no cloud. A drop-in replacement for Acrobat Reader.",
+    "description": "Extension description"
+  },
+  "popTagline": {
+    "message": "Read, organize, sign and protect PDFs"
+  },
+  "popAutoTitle": {
+    "message": "Open PDFs automatically"
+  },
+  "popAutoHint": {
+    "message": "In the browser, instead of Chrome's viewer"
+  },
+  "popDownloadsTitle": {
+    "message": "Open PDFs right after download"
+  },
+  "popDownloadsHint": {
+    "message": "In a new tab"
+  },
+  "popBadgeTitle": {
+    "message": "Show the “Open with PdfCraft” badge"
+  },
+  "popBadgeHint": {
+    "message": "When automatic opening is off"
+  },
+  "popOpenLocal": {
+    "message": "Open a PDF from this computer…"
+  },
+  "popNative": {
+    "message": "Open this PDF in Chrome's viewer"
+  },
+  "popFileAccess": {
+    "message": "Turn on “Allow access to file URLs” to open local and downloaded PDFs."
+  },
+  "popFileAccessLink": {
+    "message": "Open settings"
+  },
+  "ctxLink": {
+    "message": "Open link with PdfCraft"
+  },
+  "ctxPage": {
+    "message": "Open with PdfCraft"
+  },
+  "badgeText": {
+    "message": "Open with PdfCraft"
+  },
+  "badgeTitle": {
+    "message": "Open this PDF in a new tab with PdfCraft"
+  },
+  "badgeHide": {
+    "message": "Hide"
+  },
+  "errTitle": {
+    "message": "Can’t open the PDF"
+  },
+  "errFile": {
+    "message": "For local files, turn on “Allow access to file URLs” in the extension settings:"
+  },
+  "errFileCopy": {
+    "message": "(copy and paste the address into a new tab)"
+  },
+  "errServer": {
+    "message": "The server did not return the file ($ERR$).",
+    "placeholders": {
+      "err": {
+        "content": "$1"
+      }
+    }
+  },
+  "errRetry": {
+    "message": "Try again"
+  },
+  "errStartTitle": {
+    "message": "PdfCraft did not start"
+  },
+  "errWebgl": {
+    "message": "WebGL2 is required: make sure hardware acceleration is on in chrome://settings/system."
+  }
+}
